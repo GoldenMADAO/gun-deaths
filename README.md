@@ -1,0 +1,1 @@
+guns.csv can be found in [guns-data](https://github.com/fivethirtyeight/guns-data)
